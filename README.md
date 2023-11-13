@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhzMnRxMGhrcnNoN2IxeHl5YmY1c2dhbXpwampndWU3azBrc3lmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhzMnRxMGhrcnNoN2IxeHl5YmY1c2dhbXpwampndWU3azBrc3lmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/mrs.lightwood">
@@ -14,8 +14,8 @@
   </a>
 </div>
 <div id="header" align="center">
-  <h2> Hi there, I'm Mavile 👋</h2>
-  <h4>Developer from Simferopol</h4>
+  <h1> Hi there, I'm Mavile 👋</h1>
+  <h3>Developer from Simferopol</h3>
 </div>
 
 <div>
