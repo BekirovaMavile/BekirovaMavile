@@ -17,9 +17,9 @@
   <h1> Hi there, I'm Mavile 👋</h1>
   <h3>Developer from Simferopol</h3>
 </div>
-
-<div>
-  <h3> Languages and tools</h3>
+<h3> Languages and tools</h3>
+<div align="center">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     title="JS" width="40" style="display: inline-block;">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
