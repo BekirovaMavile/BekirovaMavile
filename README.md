@@ -1,12 +1,12 @@
 
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/mrurbinaco-mr-urbina-office-paTz7UZbPfTZFRYnnB" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhzMnRxMGhrcnNoN2IxeHl5YmY1c2dhbXpwampndWU3azBrc3lmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/mrs.lightwood">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte Badge"/>
   </a>
-  <a href="https://discord.com/users/mavi_bekirova">
+  <a href="https://discord.com/mavi_bekirova">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://t.me/mavile_hanum">
